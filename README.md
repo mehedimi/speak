@@ -1,21 +1,7 @@
-# speak
+# Speak Application
 
-## Project setup
-```
-npm install
-```
+This is a simple speech recognition app used by JavaScript Api
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## To Test It Visit
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+[Click Here](https://mehedimi.github.io/speak)
